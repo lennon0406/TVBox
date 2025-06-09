@@ -3,7 +3,6 @@
 			{
       "group": "地方卫视",
       "channels": 	[
-	  
 					{
           "name": "东方卫视",
           "logo": "https://logo.com/dongfang.png",
@@ -20,8 +19,10 @@
 					"http://zjstream.com/hd.m3u8"
 					]
 					}
-					
-					
+					]
+			},
+
+			{
       "group": "马来西亚",
       "channels": 	[
 					{
