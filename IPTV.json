@@ -1,21 +1,23 @@
 {
     "spider": "",
-    "lives": [{
-            "name": "Live",
-            "type": 0,
-            "url": "URL address of the live feed",
+    "lives": 	[	{
+					"name": "Live",
+					"type": 0,
+					"url": "URL address of the live feed",
                     "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
-            "logo": "https://epg.112114.xyz/logo/{name}.png"
-        }, {
-            "group": "redirect",
-            "channels": [{
-                    "name": "live",
-                    "urls": []
-                }
-            ],
-            "epg": "https://epg.112114.xyz/"
-        }
-    ],
+					"logo": "https://epg.112114.xyz/logo/{name}.png"
+					},
+					
+					{
+					"group": "地方卫视",
+					"channels": [{
+								"name": "东方卫视",
+								"urls": [http://dfstream1.com/live.m3u8]
+								}
+								],
+					"epg": "https://epg.112114.xyz/"
+					}
+				],
     "rules": [],
     "sites": [],
     "parses": [],
