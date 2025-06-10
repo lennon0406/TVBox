@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://i.postimg.cc/wTQ0nC4r/Astro-AEC.png",astro AEC
+https://smart.pendy.dpdns.org/Smart.php?id=AEC
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Astro_AOD_%282024%29.png",astro AOD
+https://smart.pendy.dpdns.org/Smart.php?id=Aodhd
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Astro_AOD_%282024%29.png",astro AOD 311
+https://smart.pendy.dpdns.org/Smart.php?id=Aodhd311
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png",astro Arena
+https://smart.pendy.dpdns.org/Smart.php?id=Arena
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png",astro Arena 2
+https://smart.pendy.dpdns.org/Smart.php?id=Arena2
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Aura_%282024%29.png",astro Aura
+http://fm1077.serv00.net/Smart.php?id=Aura
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Astro_Awani_%282025%29.png",astro Awani
+http://fm1077.serv00.net/Smart.php?id=Awani
+#EXTINF:-1 group-title="马来西亚" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/Astro_Thangathirai_%282024%29.png",astro Box Office Thangathirai
+https://smart.pendy.dpdns.org/Smart.php?id=Thangathirai
