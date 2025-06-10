@@ -1,15 +1,15 @@
 {
-  "lives": [
-				{
-				"group": "马来西亚",
-				"channels": [
-								{
-							"name": "astro AEC",
-							"urls": [
-									"https://smart.pendy.dpdns.org/Smart.php?id=AEC"
-									]
-								},
-							]
-				}
-			]
+    "lives": [
+        {
+            "group": "马来西亚",
+            "channels": [
+                {
+                    "name": "astro AEC",
+                    "urls": [
+                        "https://smart.pendy.dpdns.org/Smart.php?id=AEC"
+                    ]
+                }
+            ]
+        }
+    ]
 }
