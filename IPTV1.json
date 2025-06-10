@@ -1,29 +1,24 @@
-"lives": [
-    {
-"group": "CCTV",
-      "channels": [
-        {
-          "name": "CCTV-1",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv1/HD-8000k-1080P-cctv1",
-            "http://39.134.24.24/PLTV/88888888/224/3221225684/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225829/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225652/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221226024/index.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-2",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv2/HD-8000k-1080P-cctv2",
-            "http://39.134.24.24/PLTV/88888888/224/3221225686/index.m3u8"
-          ]
-        },
-        {
-          "name": "CCTV-3",
-          "urls": [
-            "http://183.207.248.71:80/cntv/live1/HD-8000k-1080P-cctv3/HD-8000k-1080P-cctv3",
-            "http://39.134.24.24/PLTV/88888888/224/3221226023/index.m3u8",
-            "http://39.134.24.24/PLTV/88888888/224/3221225630/index.m3u8"
-          ]
-        },
+{
+    "spider": "",
+    "lives": [{
+            "name": "Live",
+            "type": 0,
+            "url": "URL address of the live feed",
+                    "epg": "https://epg.112114.xyz/?ch={name}&date={date}",
+            "logo": "https://epg.112114.xyz/logo/{name}.png"
+        }, {
+            "group": "redirect",
+            "channels": [{
+                    "name": "live",
+                    "urls": []
+                }
+            ],
+            "epg": "https://epg.112114.xyz/"
+        }
+    ],
+    "rules": [],
+    "sites": [],
+    "parses": [],
+    "flags": [],
+    "wallpaper": ""
+}
