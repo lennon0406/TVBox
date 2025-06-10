@@ -5,7 +5,7 @@
 				"channels": [
 								{
 							"name": "astro AEC",
-							"urls": [
+							"url": [
 									"https://smart.pendy.dpdns.org/Smart.php?id=AEC",
 									"http://fm1077.serv00.net/Smart.php?id=AEC",
 									"https://ali.hlspull.yximgs.com/live/moa80.flv"
@@ -13,7 +13,7 @@
 								},
 								{
 							"name": "astro AOD",
-							"urls": [
+							"url": [
 									"https://smart.pendy.dpdns.org/Smart.php?id=Aodhd",
 									"http://fm1077.serv00.net/Smart.php?id=AodHD",
 									"http://cdn9.163189.xyz/smt1.1.php?id=Aodhd"
